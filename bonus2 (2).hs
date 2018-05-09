@@ -1,7 +1,6 @@
 {-
 
 Sırrı Kırımlıoğlu
-150130117
 
 -}
 data Color = Red 
