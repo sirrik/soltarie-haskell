@@ -1,2 +1,2 @@
-# soltarie-heskell
-Soltarie game with heskell (not completed)
+# soltarie-haskell
+Soltarie game with haskell (not completed)
